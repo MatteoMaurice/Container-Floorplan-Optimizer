@@ -78,11 +78,13 @@ Backend API runs at:
 http://127.0.0.1:8000
 ```
 
-Motivation
+**Motivation**
+
 This project was built to explore practical container loading optimization, bridging algorithmic packing logic with a clean, visual UI.
 It is designed as a realistic engineering tool rather than a toy demo.
 
-Future Improvements
+**Future Improvements**
+
 -Weight constraints
 -Pallet stacking logic
 -3D visualization
