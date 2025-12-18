@@ -1,0 +1,6 @@
+{
+  "20GP": { "name": "20' Standard (GP)", "L_mm": 5898, "W_mm": 2352 },
+  "40GP": { "name": "40' Standard (GP)", "L_mm": 12032, "W_mm": 2352 },
+  "40HC": { "name": "40' High Cube (HC)", "L_mm": 12032, "W_mm": 2352 },
+  "45HC": { "name": "45' High Cube (HC)", "L_mm": 13556, "W_mm": 2352 }
+}
